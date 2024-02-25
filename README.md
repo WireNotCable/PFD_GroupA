@@ -1,14 +1,26 @@
 # PFD_GroupA
-OCBC Hackathon: Increasing Accesibility for people with mobility disabilities
+OCBC Hackathon: Make Digital Banking Accessible to Everyone
 
 ## Description
 Creating features to help convenience and our target audience(mobility disabilities).
 
-## Simple Wireframe
-![image](https://github.com/ErvinW/PFD_GroupA/assets/115938171/7c565135-32b5-43b6-8568-d76c79584cb1)
-![image](https://github.com/ErvinW/PFD_GroupA/assets/115938171/2fbe96ff-ecd1-42e5-a92d-05e2b9bd9781)
-![image](https://github.com/ErvinW/PFD_GroupA/assets/115938171/03e42cd9-40a1-475d-8034-0d9c9f3a891b)
-![image](https://github.com/ErvinW/PFD_GroupA/assets/115938171/fae76d5e-fbf2-435b-9924-48dddf039c4f)
-![image](https://github.com/ErvinW/PFD_GroupA/assets/115938171/ac09b849-0ba7-4326-9235-f08c59b95614)
-![image](https://github.com/ErvinW/PFD_GroupA/assets/115938171/0508c402-9155-4735-b1cd-9020c7da1f40)
+## Features
+- Keybind feature
+  > allows users to easily use functions just from their keyboard, reducing the movement required and inconveniencing them.
+- Voice command feature
+  > allows users to forgo having to manually type/click and instead use their voice to carry out multiple features.
+- Face Recognition authentication
+  > not only increases our security when logging into the app, it also makes the process much more efficient and convenient.
+- Gesture Navigation feature
+  > allows users to easily carry out features such as switching pages just by showing different finger combinations.
+
+## Technologies Used
+- HTML, CSS, Javascript
+- ASP.NET
+- Firebase, MSSQL
+- Mediapipe Library
+- API
+
+
+
 
